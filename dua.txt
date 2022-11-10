@@ -1,4 +1,1 @@
-ini file sudah di edit dan harus disimpan
-
-
-ini file sudah di edit dan harus disimpan
+sekarang kita sudah menambahkan remote di dalam repository lokal. Selanjutnya kita bisa melakukan push atau mengirim revisi ke repository remote (Github) dengan perintah git push <nama remote> <nama cabang tujuan>. Contoh :
